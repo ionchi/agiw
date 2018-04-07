@@ -4,6 +4,7 @@ import os
 from bs4 import BeautifulSoup
 import requests
 import json
+import datetime
 from collections import OrderedDict
 
 
@@ -18,11 +19,12 @@ def main():
         for key, value in data.items():
             # variabile per scandire i file scaricati
             i = 1
-            # itera i valori (in questo caso url)
             sitepath = os.path.join(folderpath, key)
             if not os.path.exists(sitepath):
                 os.makedirs(sitepath)
+            # itera i valori (in questo caso url)
             for url in value:
+                time = datetime.datetime.now().strftime("%A, %d. %B %Y %H:%M:%S.%f")[:-3]
                 # nome file output
                 output = os.path.join(sitepath, str(i) + ".html")
                 resultfilepath = os.path.join(sitepath, "index.txt")
@@ -36,14 +38,27 @@ def main():
                     if response.status_code == 200:
                         with open(resultfilepath, "a") as resultfile:
                             resultfile.write(url + " \t " + output + "\n")
+                        print(url + " \t " + output + " [ " + time + " ]")
                         # Download contenuto risposta http
                         soup = BeautifulSoup(response.content, "lxml")
                         # salvataggio file html (opzionale: prettify)
                         with open(output, 'a') as fp:
                             fp.write(soup.prettify())
+                        i = i + 1
                 except requests.exceptions.HTTPError:
                     with open(resultfilepath, "a") as resultfile:
                         resultfile.write(url + " \t" + str(response.status_code)+"\n")
+                    print(url + " \t" + str(response.status_code) + " [ " + time + " ]")
+                    pass
+                except requests.exceptions.Timeout:
+                    with open(resultfilepath, "a") as resultfile:
+                        resultfile.write(url + " \t timeout\n")
+                    print(url + " \t timeout\n" + " [ " + time + " ]")
+                    pass
+                except requests.exceptions.TooManyRedirects:
+                    with open(resultfilepath, "a") as resultfile:
+                        resultfile.write(url + " \t tooManyRedirects\n")
+                    print(url + " \t tooManyRedirects\n" + " [ " + time + " ]")
                     pass
                 except requests.exceptions.RequestException as e:
                     data = str(e)
@@ -52,8 +67,8 @@ def main():
                     info = data[:25] + (data[25:] and '..')
                     with open(resultfilepath, "a") as resultfile:
                         resultfile.write(url + " \t other error: " + info+"\n")
+                    print(url + " \t other error: " + info + " [ " + time + " ]")
                     pass
-                i = i + 1
 
 
 main()

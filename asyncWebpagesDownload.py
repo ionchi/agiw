@@ -11,7 +11,7 @@ import sys
 
 
 async def download_coroutine(session, url, folder, resultfile, progressive):
-    with async_timeout.timeout(10):
+    with async_timeout.timeout(30):
         async with session.get(url) as response:
             time = datetime.datetime.now().strftime("%A, %d. %B %Y %H:%M:%S.%f")[:-3]
             filename = os.path.basename(str(progressive) + ".html")

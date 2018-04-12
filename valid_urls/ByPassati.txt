@@ -1,0 +1,18 @@
+finderscheapers.com  Mantenuto, ma fa redirect ad amazo  quindi riesce a estrarre solo il nome
+pricesteals.today Non va, apre la pagina dentro è vuota per mancanza del sito
+products.unbeatablesale.com Da errore 403, ma ci sono le cose quindi bisogna trovare il modo
+shopping.yahoo.com immagini e contenuti non disponibili
+shoppingcove.com dominio cambiato
+www.amazon.com da 503 e blocca tutto, va gestita eccezione
+www.articleslash.net Pagine non valide, non ci sono e redirecta alla home
+www.beautifulbathrooms.org Da errore 403, ma ci sono le cose quindi bisogna trovare il modo
+www.bhg.com non trova e redirecta alla ricerca
+www.hayneedle.com   link non validi e redirecta alla home
+http://knobdeco.com non hanno piu nulla
+http://mainfaucet.com/ non hanno nulla
+www.marvinsbuildingmaterials.com non hanno nulla
+www.newegg.com non validi
+http://retrostats.com/ sito non valido
+www.shopping.com fa redirect
+http://wayfair.com non validi e redirectano alla ricerca
+www.westsidewholesale.com da errore 403 non posso verificare json

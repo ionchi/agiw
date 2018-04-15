@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Swiss Force Meister Knife"
+        ],
+        "Price": [
+            "&#36;5.29"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Swiss Force Meister Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/434661.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/121771/Swiss-Force-Meister-Knife\", \r\n  \"description\": \"Enjoy your very own slice of promotional success!\",\r\n  \"sku\": \"121771\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"121771\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"5.29\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #121771"
+        ]
+    }
+]

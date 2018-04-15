@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Handy Cutter Box Opener"
+        ],
+        "Price": [
+            "&#36;1.05"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Handy Cutter Box Opener\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/418142.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/117576/Handy-Cutter-Box-Opener\", \r\n  \"description\": \"Carve out an outstanding reputation, beginning with these promoters!\",\r\n  \"sku\": \"117576\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"3.0\",\r\n    \"reviewCount\": \"1\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"117576\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"1.05\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #117576"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Wooden 13 Function Pocket Knife"
+        ],
+        "Price": [
+            "&#36;6.99"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Wooden 13 Function Pocket Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/439878.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/122785/Wooden-13-Function-Pocket-Knife\", \r\n  \"description\": \"Go out in the wild with this custom pocket knife!\",\r\n  \"sku\": \"122785\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"5.0\",\r\n    \"reviewCount\": \"1\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"122785\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"6.99\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n   ,\r\n\"review\": [\r\n    {\r\n      \"@type\": \"Review\",\r\n      \"author\": \"Mariel from Pompano Beach\",\r\n      \"datePublished\": \"1/3/2015\",\r\n      \"description\": \"This item is perfect! It came in excellent condition and was great for a client gift. However, I do advise purchasing a different box to gift these in.\",\r\n      \"name\": \"Wooden 13 Function Pocket Knife\",\r\n      \"reviewRating\": {\r\n        \"@type\": \"Rating\",\r\n        \"bestRating\": \"5\",\r\n        \"ratingValue\": \"5\",\r\n        \"worstRating\": \"1\"\r\n          }\r\n      }\r\n]       \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #122785"
+        ]
+    }
+]

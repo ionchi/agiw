@@ -1,0 +1,34 @@
+[
+    {
+        "Brand Name": [
+            "Eco-Friendly,Stocked"
+        ],
+        "Certification": [
+            "Solid"
+        ],
+        "Feature": [
+            "Plastic"
+        ],
+        "Knife Type": [
+            "2"
+        ],
+        "Material": [
+            "Gift Box"
+        ],
+        "Model Number": [
+            "Spoon/Fork/Knife/Chopsticks Kit"
+        ],
+        "Name": [
+            "Portable Travel Cutlery Spoon Fork Chopsticks Picnic Camping Picnic Kit Set Case Dinnerware Tableware for Kids Adults F2672"
+        ],
+        "Price Discount": [
+            "\n\t\tif(!window.runParams) {\n\t\twindow.runParams = {};\n\t\t}\n\t\twindow.runParams.minPrice=\"3.69\";\n\t\twindow.runParams.maxPrice=\"3.69\";\n\t\twindow.runParams.baseCurrencyCode=\"USD\";\n\t\twindow.runParams.baseCurrencySymbol=\"US $\";\n\t\twindow.runParams.baseSymbolFront=true;\n\t\twindow.runParams.isGroupJoin=\"\";\n        window.runParams.abMzcVersion=\"\";\n        window.runParams.isCoinPreSale=\"\";\n        window.runParams.applyScene=\"\";\n        window.runParams.atLeastCoinEnough = \"\";\n        window.runParams.miniCoinNeed = \"\";\n        window.runParams.isOpenBanner=\"\";\n\t\t\t\twindow.runParams.pageSizeID=\"\";\n\t\twindow.runParams.pageSizeType=\"\";\n\t\twindow.runParams.hasSizeInfo=false;\n\t\twindow.runParams.pageSizeTemplate='';\n\t\twindow.runParams.pageSizeBuyerData='';\n\t\t\t\t    window.runParams.pageSizeSellerData={};\n        \n                    window.runParams.title={};\n        \n        window.runParams.isNewSizeInfo=false;\n\t\twindow.runParams.offline=true;\n\t\twindow.runParams.csrfToken=\"on4yoc769ill\";\n\t\twindow.runParams.productId=\"32322337765\";\n        window.runParams.serverTime=\"1523793332634\";\n\t\twindow.runParams.userCountry=\"IT\";\n\t\twindow.runParams.userCountryName=\"Italy\";\n\t\twindow.runParams.regionCountryName=\"Italy\";\n\t\twindow.runParams.regionProvinceName=\"\";\n\t\twindow.runParams.regionCityName=\"\";\n        window.runParams.sessionId=\"106692e3c24540519101783b89b762d5\";\n\t\t\t\twindow.runParams.currencyCode=\"USD\";\n\t\twindow.runParams.currencySymbol=\"US $\";\n\t\twindow.runParams.currencyRate=\"1.0\";\n\t\twindow.runParams.symbolFront=true;\n\t\twindow.runParams.currencyTransaction=true;\n\t\t\t\t\n\t\twindow.runParams.hasMobileDiscount=\"false\";\n\twindow.runParams.mobileDiscountPrice=\"\";\n\n\t\n\t\t\twindow.runParams.totalAvailQuantity=3975;\n\twindow.runParams.memberPrice=\"\";\n\twindow.runParams.memberPriceActivity=\"\";\n\twindow.runParams.quantityLimit={\n\t\tisPurchaseLimit: \"\",\n\t\t\t\tunit: 'Sets',\n\t\t\t\tquantityNum: '3975 ',\n\t\tavailQuantityForCustomer: '3975'\n\t};\n\n\t\t\twindow.runParams.warrantyServiceJson=[];\n\t\t\t\twindow.runParams.forcePromiseWarrantyJson={};\n\t\twindow.runParams.hasOverseaWarehouse=\"false\";\n\n\tvar skuProducts=[{\"skuAttr\":\"14:173\",\"skuPropIds\":\"173\",\"skuVal\":{\"availQuantity\":995,\"inventory\":999,\"isActivity\":false,\"skuCalPrice\":\"3.69\",\"skuMultiCurrencyCalPrice\":\"3.69\",\"skuMultiCurrencyDisplayPrice\":\"3.69\"}},{\"skuAttr\":\"14:175\",\"skuPropIds\":\"175\",\"skuVal\":{\"availQuantity\":988,\"inventory\":999,\"isActivity\":false,\"skuCalPrice\":\"3.69\",\"skuMultiCurrencyCalPrice\":\"3.69\",\"skuMultiCurrencyDisplayPrice\":\"3.69\"}},{\"skuAttr\":\"14:350852\",\"skuPropIds\":\"350852\",\"skuVal\":{\"availQuantity\":994,\"inventory\":999,\"isActivity\":false,\"skuCalPrice\":\"3.69\",\"skuMultiCurrencyCalPrice\":\"3.69\",\"skuMultiCurrencyDisplayPrice\":\"3.69\"}},{\"skuAttr\":\"14:1052\",\"skuPropIds\":\"1052\",\"skuVal\":{\"availQuantity\":998,\"inventory\":999,\"isActivity\":false,\"skuCalPrice\":\"3.69\",\"skuMultiCurrencyCalPrice\":\"3.69\",\"skuMultiCurrencyDisplayPrice\":\"3.69\"}}];\n\t        var GaData = {\n        pageType: \"product\",\n        productIds: \"en32322337765\",\n        totalValue: \"US $3.69\"\n    };\n\n\t\t    window.runParams.isFixedFreeShipping=false;\n\twindow.runParams.fixedFreeShippingTip='';\n\twindow.runParams.bigSaleIconUrl='';\n\twindow.runParams.rmStoreLevelAB = \"true\";\n    "
+        ],
+        "Type": [
+            "Dinnerware Sets"
+        ],
+        "Use for": [
+            "CE / EU,CIQ,EEC,FDA,LFGB,SGS"
+        ]
+    }
+]

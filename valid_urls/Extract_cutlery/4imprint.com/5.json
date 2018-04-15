@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Adventure Knife"
+        ],
+        "Price": [
+            "&#36;5.59"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Adventure Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/352802.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/104017/Adventure-Knife\", \r\n  \"description\": \"Your logo will travel indoors and out!\",\r\n  \"sku\": \"104017\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"5.0\",\r\n    \"reviewCount\": \"2\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"104017\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"5.59\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #104017"
+        ]
+    }
+]

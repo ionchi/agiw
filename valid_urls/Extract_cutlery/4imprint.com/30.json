@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "Ombre Utility Knife"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Ombre Utility Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/450134.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/126118/Ombre-Utility-Knife\", \r\n  \"description\": \"Add some style to the way you promote your logo!\",\r\n  \"sku\": \"126118\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"126118\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"9.59\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #126118"
+        ]
+    }
+]

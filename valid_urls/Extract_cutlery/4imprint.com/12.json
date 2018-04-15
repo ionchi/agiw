@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Survivor 3-in-1 Rescue Knife"
+        ],
+        "Price": [
+            "&#36;8.39"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Survivor 3-in-1 Rescue Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/439881.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/122787/Survivor-3-in-1-Rescue-Knife\", \r\n  \"description\": \"Rescue your new promotion with this custom knife!\",\r\n  \"sku\": \"122787\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"4.5\",\r\n    \"reviewCount\": \"6\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"122787\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"8.39\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n   ,\r\n\"review\": [\r\n    {\r\n      \"@type\": \"Review\",\r\n      \"author\": \"Linda from Portland\",\r\n      \"datePublished\": \"1/18/2017\",\r\n      \"description\": \"The closing mechanism seems slightly dangerous.  Your fingers are in the way when you push to close.\",\r\n      \"name\": \"Survivor 3-in-1 Rescue Knife\",\r\n      \"reviewRating\": {\r\n        \"@type\": \"Rating\",\r\n        \"bestRating\": \"5\",\r\n        \"ratingValue\": \"5\",\r\n        \"worstRating\": \"1\"\r\n          }\r\n      }\r\n]       \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #122787"
+        ]
+    }
+]

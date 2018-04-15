@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "Edge Ridge Knife"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Edge Ridge Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/434764.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/121768/Edge-Ridge-Knife\", \r\n  \"description\": \"Catch their eye with this cutting-edge custom knife!\",\r\n  \"sku\": \"121768\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"121768\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"2.99\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #121768"
+        ]
+    }
+]

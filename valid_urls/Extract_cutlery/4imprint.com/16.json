@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "Frontier Knife"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Frontier Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/459367.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/129040/Frontier-Knife\", \r\n  \"description\": \"Be on the frontier of new advertising!\",\r\n  \"sku\": \"129040\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"4.0\",\r\n    \"reviewCount\": \"1\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"129040\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"3.75\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n   ,\r\n\"review\": [\r\n    {\r\n      \"@type\": \"Review\",\r\n      \"author\": \"Richard from Wytheville\",\r\n      \"datePublished\": \"5/18/2016\",\r\n      \"description\": \"This is a nice knife for the money\",\r\n      \"name\": \"Frontier Knife\",\r\n      \"reviewRating\": {\r\n        \"@type\": \"Rating\",\r\n        \"bestRating\": \"5\",\r\n        \"ratingValue\": \"4\",\r\n        \"worstRating\": \"1\"\r\n          }\r\n      }\r\n]       \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #129040"
+        ]
+    }
+]

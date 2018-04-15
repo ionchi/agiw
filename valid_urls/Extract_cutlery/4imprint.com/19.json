@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "Thunder Knife"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Thunder Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/459368.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/129041/Thunder-Knife\", \r\n  \"description\": \"This custom knife is sure to cause a promotional rumble!\",\r\n  \"sku\": \"129041\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"129041\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"3.45\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #129041"
+        ]
+    }
+]

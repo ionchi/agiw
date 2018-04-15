@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Victorinox Classic Knife - Translucent"
+        ],
+        "Price": [
+            "&#36;10.99"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Victorinox Classic Knife - Translucent\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/173171.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/6309-T/Victorinox-Classic-Knife-Translucent\", \r\n  \"description\": \"This legendary classic has 7 tools - and genuine Swiss Army quality!\",\r\n  \"sku\": \"6309-T\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"4.8\",\r\n    \"reviewCount\": \"10\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"6309-T\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"10.99\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n   ,\r\n\"review\": [\r\n    {\r\n      \"@type\": \"Review\",\r\n      \"author\": \"Daniel from Bayside\",\r\n      \"datePublished\": \"12/13/2006\",\r\n      \"description\": \"My customers love this knife. It is a quality item and very useful and easy to carry around. Plus a little advertising is good too.\",\r\n      \"name\": \"Victorinox Classic Knife - Translucent\",\r\n      \"reviewRating\": {\r\n        \"@type\": \"Rating\",\r\n        \"bestRating\": \"5\",\r\n        \"ratingValue\": \"5\",\r\n        \"worstRating\": \"1\"\r\n          }\r\n      }\r\n]       \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #6309-T"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Hunt Valley Multi-Tool"
+        ],
+        "Price": [
+            "&#36;13.49"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Hunt Valley Multi-Tool\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/460677.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/129555/Hunt-Valley-Multi-Tool\", \r\n  \"description\": \"Get all of your quick-fix needs in one custom multi-tool!\",\r\n  \"sku\": \"129555\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"129555\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"13.49\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #129555"
+        ]
+    }
+]

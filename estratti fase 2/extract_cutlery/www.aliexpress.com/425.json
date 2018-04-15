@@ -1,0 +1,34 @@
+[
+    {
+        "Brand Name": [
+            "SGS"
+        ],
+        "Certification": [
+            "Traditional Chinese"
+        ],
+        "Feature": [
+            "Eco-Friendly,Stocked"
+        ],
+        "Knife Type": [
+            "2"
+        ],
+        "Material": [
+            "Plastic"
+        ],
+        "Model Number": [
+            "Spoon/Fork/Knife/Chopsticks Kit"
+        ],
+        "Name": [
+            "Portable eco-friendly cutlery set eco-friendly travel folding combination spoon chopsticks fork piece set"
+        ],
+        "Price Discount": [
+            "\n\t\tif(!window.runParams) {\n\t\twindow.runParams = {};\n\t\t}\n\t\twindow.runParams.minPrice=\"3.0\";\n\t\twindow.runParams.maxPrice=\"3.0\";\n\t\twindow.runParams.baseCurrencyCode=\"USD\";\n\t\twindow.runParams.baseCurrencySymbol=\"US $\";\n\t\twindow.runParams.baseSymbolFront=true;\n\t\twindow.runParams.isGroupJoin=\"\";\n        window.runParams.abMzcVersion=\"\";\n        window.runParams.isCoinPreSale=\"false\";\n        window.runParams.applyScene=\"\";\n        window.runParams.atLeastCoinEnough = \"false\";\n        window.runParams.miniCoinNeed = \"\";\n        window.runParams.isOpenBanner=\"\";\n\t\t\t\twindow.runParams.pageSizeID=\"\";\n\t\twindow.runParams.pageSizeType=\"\";\n\t\twindow.runParams.hasSizeInfo=false;\n\t\twindow.runParams.pageSizeTemplate='';\n\t\twindow.runParams.pageSizeBuyerData='';\n\t\t\t\t    window.runParams.pageSizeSellerData={};\n        \n                    window.runParams.title={};\n        \n        window.runParams.isNewSizeInfo=false;\n\t\twindow.runParams.offline=true;\n\t\twindow.runParams.csrfToken=\"14nzdshb5qdz4\";\n\t\twindow.runParams.productId=\"32314883607\";\n        window.runParams.serverTime=\"1523793951619\";\n\t\twindow.runParams.userCountry=\"IT\";\n\t\twindow.runParams.userCountryName=\"Italy\";\n\t\twindow.runParams.regionCountryName=\"Italy\";\n\t\twindow.runParams.regionProvinceName=\"\";\n\t\twindow.runParams.regionCityName=\"\";\n        window.runParams.sessionId=\"5c0645b04e5a432681ba03955ecd7490\";\n\t\t\t\twindow.runParams.currencyCode=\"USD\";\n\t\twindow.runParams.currencySymbol=\"US $\";\n\t\twindow.runParams.currencyRate=\"1.0\";\n\t\twindow.runParams.symbolFront=true;\n\t\twindow.runParams.currencyTransaction=true;\n\t\t\t\t\t\t\twindow.runParams.discountAmountList = [\n\t\t\t\t\t\t\t\t{\n\t\t\t\t\tdiscountAmount:\"US $1.00\",\n\t\t\t\t\tfixedAmount:\"US $25.00\"\n\t\t\t\t},\n\t\t\t\t\t\t\t\t{\n\t\t\t\t\tdiscountAmount:\"US $3.00\",\n\t\t\t\t\tfixedAmount:\"US $50.00\"\n\t\t\t\t},\n\t\t\t\t\t\t\t\t{\n\t\t\t\t\tdiscountAmount:\"US $10.00\",\n\t\t\t\t\tfixedAmount:\"US $100.00\"\n\t\t\t\t},\n\t\t\t\t\t\t\t\t{\n\t\t\t\t\tdiscountAmount:'',\n\t\t\t\t\tfixedAmount:''\n\t\t\t\t}\n\t\t\t];\n\t\t\twindow.runParams.storeSaleItemURL = '';\n\t\t\twindow.runParams.discountTime = {\n\t\t\t\td: '11',\n\t\t\t\th: '0',\n\t\t\t\ts: '0'\n\t\t\t};\n\t\t\twindow.runParams.isStoreEventAllProduct = \"true\";\n\t\t\n\t\twindow.runParams.hasMobileDiscount=\"false\";\n\twindow.runParams.mobileDiscountPrice=\"\";\n\n\t\n\t\t\twindow.runParams.totalAvailQuantity=537;\n\twindow.runParams.memberPrice=\"\";\n\twindow.runParams.memberPriceActivity=\"false\";\n\twindow.runParams.quantityLimit={\n\t\tisPurchaseLimit: \"\",\n\t\t\t\tunit: 'pieces',\n\t\t\t\tquantityNum: '537 ',\n\t\tavailQuantityForCustomer: '537'\n\t};\n\n\t\t\twindow.runParams.warrantyServiceJson=[];\n\t\t\t\twindow.runParams.forcePromiseWarrantyJson={};\n\t\twindow.runParams.hasOverseaWarehouse=\"false\";\n\n\tvar skuProducts=[{\"skuPropIds\":\"\",\"skuVal\":{\"availQuantity\":537,\"inventory\":540,\"isActivity\":false,\"skuCalPrice\":\"3.00\",\"skuMultiCurrencyCalPrice\":\"3.0\",\"skuMultiCurrencyDisplayPrice\":\"3.00\"}}];\n\t        var GaData = {\n        pageType: \"product\",\n        productIds: \"en32314883607\",\n        totalValue: \"US $3.0\"\n    };\n\n\t\t    window.runParams.isFixedFreeShipping=false;\n\twindow.runParams.fixedFreeShippingTip='';\n\twindow.runParams.bigSaleIconUrl='';\n\twindow.runParams.rmStoreLevelAB = \"true\";\n    "
+        ],
+        "Type": [
+            "Dinnerware Sets"
+        ],
+        "Use for": [
+            "Handpainted"
+        ]
+    }
+]

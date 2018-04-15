@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Victorinox Spartan Knife - Opaque"
+        ],
+        "Price": [
+            "&#36;17.49"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Victorinox Spartan Knife - Opaque\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/448984.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/125746-S/Victorinox-Spartan-Knife-Opaque\", \r\n  \"description\": \"Victory goes to the best promotion!\",\r\n  \"sku\": \"125746-S\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"125746-S\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"17.49\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #125746-S"
+        ]
+    }
+]

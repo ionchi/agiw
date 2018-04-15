@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "5-Function Knife - Transparent"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"5-Function Knife - Transparent\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/45633.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/3915-T/5-Function-Knife-Transparent\", \r\n  \"description\": \"Compact, handy knife is a keen idea for your next promotion!\",\r\n  \"sku\": \"3915-T\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"4.4\",\r\n    \"reviewCount\": \"14\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"3915-T\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"0.75\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n   ,\r\n\"review\": [\r\n    {\r\n      \"@type\": \"Review\",\r\n      \"author\": \"Speedy from Starke\",\r\n      \"datePublished\": \"9/20/2006\",\r\n      \"description\": \"Very appropriate for our function and the people seemed to really enjoy them.\",\r\n      \"name\": \"5-Function Knife - Transparent\",\r\n      \"reviewRating\": {\r\n        \"@type\": \"Rating\",\r\n        \"bestRating\": \"5\",\r\n        \"ratingValue\": \"5\",\r\n        \"worstRating\": \"1\"\r\n          }\r\n      }\r\n]       \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #3915-T"
+        ]
+    }
+]

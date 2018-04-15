@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "Safety Cutter with Key Ring - Opaque"
+        ],
+        "Price": [
+            "79&#162;"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Safety Cutter with Key Ring - Opaque\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/11027.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/83060-S/Safety-Cutter-with-Key-Ring-Opaque\", \r\n  \"description\": \"Cut right to the chase on this imprinted tool!\",\r\n  \"sku\": \"83060-S\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"4.3\",\r\n    \"reviewCount\": \"3\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"83060-S\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"0.79\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #83060-S"
+        ]
+    }
+]

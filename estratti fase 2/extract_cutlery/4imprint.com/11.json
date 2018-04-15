@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "Colt Pocket Knife - Closeout"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Colt Pocket Knife - Closeout\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/451991.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/126107-CL/Colt-Pocket-Knife-Closeout\", \r\n  \"description\": \"The tool that will be appreciated and will help trim your gift budget.\",\r\n  \"sku\": \"126107-CL\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"126107-CL\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\"validThrough\": \"12/31/2020\",\r\n    \t\"price\": \"6.19\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #126107-CL"
+        ]
+    }
+]

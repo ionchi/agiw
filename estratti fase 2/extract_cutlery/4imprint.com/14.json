@@ -1,0 +1,13 @@
+[
+    {
+        "Name": [
+            "Thor 10 Function Pocket Knife"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"Thor 10 Function Pocket Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/439655.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/122786/Thor-10-Function-Pocket-Knife\", \r\n  \"description\": \"If they be worthy, grant your associates the power of this promotion!\",\r\n  \"sku\": \"122786\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"122786\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"8.59\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"https://schema.org/OutOfStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n          \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #122786"
+        ]
+    }
+]

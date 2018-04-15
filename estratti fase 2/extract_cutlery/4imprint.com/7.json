@@ -1,0 +1,16 @@
+[
+    {
+        "Name": [
+            "12-in-1 Anodized Knife"
+        ],
+        "Price": [
+            "&#36;2.85"
+        ],
+        "Prodotto": [
+            "\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Product\",\r\n  \"name\": \"12-in-1 Anodized Knife\",\r\n  \"image\": \"https://cdna.4imprint.com/prod/150/330360.jpg\",\r\n  \"url\": \"https://www.4imprint.com/product/100328/12-in-1-Anodized-Knife\", \r\n  \"description\": \"Get a lot for a little with this handy promotional tool.\",\r\n  \"sku\": \"100328\",\r\n  \"brand\": {\r\n    \"@type\": \"Thing\",\r\n    \"name\": \"4imprint\"\r\n  },\r\n   \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"bestRating\": \"5\",\r\n    \"worstRating\": \"1\",\r\n    \"ratingValue\": \"4.6\",\r\n    \"reviewCount\": \"5\"\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"sku\": \"100328\",\r\n    \"priceSpecification\": {\r\n    \t\"priceCurrency\": \"USD\",\r\n    \t\r\n    \t\"price\": \"2.85\"\r\n    },\r\n    \"itemCondition\": \"http://schema.org/NewCondition\",\r\n    \"availability\": \"http://schema.org/InStock\",\r\n    \"seller\": {\r\n      \"@type\": \"Organization\",\r\n      \"name\": \"4imprint\"\r\n    }\r\n   ,\r\n\"review\": [\r\n    {\r\n      \"@type\": \"Review\",\r\n      \"author\": \"Vickie from Concord\",\r\n      \"datePublished\": \"8/23/2010\",\r\n      \"description\": \"I was surprised the knife seems as weighty and solid as it was. It was a great price for the product. Our clients were every happy with it.\",\r\n      \"name\": \"12-in-1 Anodized Knife\",\r\n      \"reviewRating\": {\r\n        \"@type\": \"Rating\",\r\n        \"bestRating\": \"5\",\r\n        \"ratingValue\": \"5\",\r\n        \"worstRating\": \"1\"\r\n          }\r\n      }\r\n]       \r\n  }\r\n}\r\n"
+        ],
+        "Product Number": [
+            "Item #100328"
+        ]
+    }
+]

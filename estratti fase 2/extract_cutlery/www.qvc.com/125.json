@@ -1,0 +1,13 @@
+[
+    {
+        "Model": [
+            "A253919"
+        ],
+        "Name": [
+            " Isaac Mizrahi Live! Bridgehampton Printed Canvas Hobo Bag"
+        ],
+        "Price": [
+            "$134.50</span>\n\t\t\t   \n\t\t   </div>\n\t\t   \n\t\t   \n\t\t\t\n\t\t\t\n\t\t   \n\t\t   \n\t\t   \n\t\t   <script type=\"text/javascript\">\n\t\t\t   if (typeof(priceBoxArr)==='undefined'){\n\t\t\t\t   var priceBoxArr = [];\n\t\t\t   }\n\t\t\t   var priceRange = false;\n\t\t\t   var strikeout = true;\n               var supressQVCPriceIndicator = false;\n\t\t\t   var price = priceRange ? 134 : 134;\n\t\t\t   var priceContainer = $('.qvcPrice span');\n\t\t\t   priceBoxArr.push({'priceRange':priceRange,'strikeout':strikeout,'price':price,'priceContainer':priceContainer});\n\t\t   </script>\n\t\t</div>\n \n\t\t<div class=\"col-tn-12 col-xs-6 colSpecialPrice\">\n\t\t\t<div class=\"featuredPrice\">\n\t\t\t\t\n\t\t\t\t<label>\n\t\t\t\t\t<a class=\"fancybox fancybox.ajax\" href=\"/content/qvc-commerce-us/en/info/pricecodes/clearance.content-main.html\" title=\"Clearance Price Details\">\n\t\t\t\t\t   Clearance Price:</a>\n\t\t\t\t\t\n                     \n\t\t\t\t</label>\n\t\t\t\t\n\t\t\t\t<span class=\"productDetailPrice \">$56.96\n\t\t\t\t\t\n\t\t\t\t"
+        ]
+    }
+]

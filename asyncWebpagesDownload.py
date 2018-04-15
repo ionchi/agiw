@@ -3,7 +3,6 @@ import aiohttp
 import asyncio
 import async_timeout
 import os
-from bs4 import BeautifulSoup
 import json
 import datetime
 from collections import OrderedDict
@@ -50,8 +49,12 @@ async def main(loop):
                 progressive = progressive+1
             try:
                 await asyncio.gather(*tasks)
-            except:
-                print("Eccezione di connessione")
+            except Exception as e:
+                time = datetime.datetime.now().strftime("%A, %d. %B %Y %H:%M:%S.%f")[:-3]
+                data = str(e)
+                info = data[:25] + (data[25:] and '..')
+                print("other error: " + info + " [ " + time + " ]")
+                pass
 
 
 if __name__ == '__main__':

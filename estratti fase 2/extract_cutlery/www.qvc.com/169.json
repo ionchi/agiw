@@ -1,0 +1,13 @@
+[
+    {
+        "Model": [
+            "K300150"
+        ],
+        "Name": [
+            " BergHOFF Gourmet 8-Piece Forged Knife and BlockSet"
+        ],
+        "Price": [
+            "$299.99</span>\n\t\t\t   \n\t\t   </div>\n\t\t   \n\t\t   \n\t\t\t\n\t\t\t\n\t\t   \n\t\t   \n\t\t   \n\t\t   <script type=\"text/javascript\">\n\t\t\t   if (typeof(priceBoxArr)==='undefined'){\n\t\t\t\t   var priceBoxArr = [];\n\t\t\t   }\n\t\t\t   var priceRange = false;\n\t\t\t   var strikeout = true;\n               var supressQVCPriceIndicator = false;\n\t\t\t   var price = priceRange ? 299 : 299;\n\t\t\t   var priceContainer = $('.qvcPrice span');\n\t\t\t   priceBoxArr.push({'priceRange':priceRange,'strikeout':strikeout,'price':price,'priceContainer':priceContainer});\n\t\t   </script>\n\t\t</div>\n \n\t\t<div class=\"col-tn-12 col-xs-6 colSpecialPrice\">\n\t\t\t<div class=\"featuredPrice\">\n\t\t\t\t\n\t\t\t\t<label>\n\t\t\t\t\t<a class=\"fancybox fancybox.ajax\" href=\"/content/qvc-commerce-us/en/info/pricecodes/sale.content-main.html\" title=\"Sale Price Details\">\n\t\t\t\t\t   Sale Price:</a>\n\t\t\t\t\t\n                     \n\t\t\t\t</label>\n\t\t\t\t\n\t\t\t\t<span class=\"productDetailPrice \">$200.00\n\t\t\t\t\t\n\t\t\t\t"
+        ]
+    }
+]

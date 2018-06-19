@@ -59,3 +59,7 @@ harveynorman.com.au errore 503
 foodnetworkstore.com prodotti non più presenti
 
 fixya.com link errati, non di prodotti
+
+neweggbusiness.com controlli captcha troppo frequenti
+
+seventhavenue.com accesss denied

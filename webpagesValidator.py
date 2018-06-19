@@ -8,6 +8,9 @@ import datetime
 from collections import OrderedDict
 import sys
 
+'''
+Uso: ./webpagesValidator.py data_file.json nome_output_json [senza .json]
+'''
 
 async def download_coroutine(session, url, key, dict):
     with async_timeout.timeout(30):

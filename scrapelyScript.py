@@ -32,6 +32,7 @@ def main():
             output = os.path.join(sitepath, filename)
             try:
                 result = s.scrape(url)
+                print(result[:10] + (result[10:] and '..'))
                 with open(output, 'w') as f_handle:
                     json.dump(result, f_handle, sort_keys=True, indent=4)
                 progressive = progressive + 1

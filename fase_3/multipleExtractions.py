@@ -14,6 +14,7 @@ def main():
     data = json.load(open(sys.argv[1]), object_pairs_hook=OrderedDict)
     folderpath = "./" + sys.argv[3]
     listfile = os.listdir(sys.argv[2])  #lista di train template
+    lista=[]
     for key, value in data.items():
         sitepath = os.path.join(folderpath, key)
         if not os.path.exists(sitepath):
@@ -36,6 +37,8 @@ def main():
                     print("other error: " + data)
                     pass
             else:
+                if key not  in lista:
+                    lista.append(key)
                 for file in listfile:
                     filename = os.path.basename(str(progressive)+"_"+str(second_progressive)+".json")
                     output = os.path.join(sitepath, filename)
@@ -56,6 +59,9 @@ def main():
                         print("other error: " + data)
                         pass
                 progressive = progressive + 1
+    dafare=open("dafare.txt","a")
+    for i in lista:
+        dafare.writelines(i +"\n")
 
 
 main()
